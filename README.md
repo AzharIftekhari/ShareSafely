@@ -68,6 +68,13 @@ To manage storage and ensure security, I implemented an Azure Function named `Bl
 
 ## Testing
 
+![Testing (ii)](https://github.com/user-attachments/assets/a89b2fcd-770d-43ec-aa97-2ed9d3b2cf04)
+
+![Testing (iv)](https://github.com/user-attachments/assets/d696ee1d-d456-445d-8895-34a5ce5a00fb)
+
+![Testing (vi)](https://github.com/user-attachments/assets/3e4a6af3-7973-4ad0-ac5b-65c5d1e5a880)
+
+
 To ensure that everything was working correctly, I conducted a final test of the ShareSafely application.
 
 I accessed the ShareSafelyApp through the Azure Portal, navigating to the overview page of the Web App. I then opened the application in my browser using the Web App URL.
