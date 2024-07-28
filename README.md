@@ -1,4 +1,4 @@
-# ShareSafely - File Share Web App
+# ShareSafely
 
 ## Project Workflow
 ![Project Workflow Design](https://github.com/user-attachments/assets/07e33b0b-68c4-43b4-bebe-444434ebd257)
