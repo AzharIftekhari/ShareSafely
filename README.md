@@ -64,6 +64,18 @@ The web application was deployed to Azure Web Apps using Visual Studio Code. Dur
 Azure Monitor was used to set up metrics for monitoring the application's performance, including CPU usage and response times. I also set up alerts to notify me of any critical issues, such as server errors.
 
 #### 6. Periodic Cleanup with Azure Functions
+
+![Azure Functions (iii)](https://github.com/user-attachments/assets/198a3bd6-4cc3-40ae-a618-caccd123676d)
+
+![Azure Functions (Testing) (i)](https://github.com/user-attachments/assets/29ea4f85-3230-4be2-83f3-1ef3ebb3af1a)
+
+![Azure Functions (Testing) (ii)](https://github.com/user-attachments/assets/534e0a83-a511-4c7c-bd98-c7c22ce265cd)
+
+![Azure Functions (Testing) (iv)](https://github.com/user-attachments/assets/091e0899-1a34-4bfd-be9e-f7a1492bae60)
+
+
+
+
 To manage storage and ensure security, I implemented an Azure Function named `BlobCleanupFunction` that automatically deletes files after a certain period. This function runs on a schedule, ensuring that expired files are removed promptly.
 
 ## Testing
@@ -82,6 +94,10 @@ I accessed the ShareSafelyApp through the Azure Portal, navigating to the overvi
 Once on the app interface, I tested the file upload functionality by uploading a file named **"Project Workflow Design"**, which was not previously present in the **"uploads"** container. Upon clicking the upload button, the application displayed a new browser tab with a unique, time-limited link to the uploaded file.
 
 As per the design of the application, this link is intended to expire after 15 seconds to ensure security and controlled access. I confirmed the expiration feature by attempting to access the link after the specified duration; as expected, the link was no longer accessible, validating that the application's security mechanisms were functioning as intended.
+
+#### Check the Testing Video Below:
+
+https://github.com/user-attachments/assets/382b65d5-55a2-4623-b648-eb4e3fc07085
 
 ## Conclusion
 
