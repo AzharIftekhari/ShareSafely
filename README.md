@@ -70,7 +70,7 @@ To manage storage and ensure security, I implemented an Azure Function named `Bl
 
 To ensure that everything was working correctly, I conducted a final test of the ShareSafely application.
 
-I accessed the ShareSafelyApp through the Azure Portal, navigating to the overview page of the Web App. I then opened the application in my browser using the URL **[sharesafelyapp.azurewebsites.net](https://sharesafelyapp.azurewebsites.net)**.
+I accessed the ShareSafelyApp through the Azure Portal, navigating to the overview page of the Web App. I then opened the application in my browser using the Web App URL.
 
 Once on the app interface, I tested the file upload functionality by uploading a file named **"Project Workflow Design"**, which was not previously present in the **"uploads"** container. Upon clicking the upload button, the application displayed a new browser tab with a unique, time-limited link to the uploaded file.
 
