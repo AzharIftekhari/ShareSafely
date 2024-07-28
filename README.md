@@ -30,7 +30,7 @@ To get started with the ShareSafely project, you’ll need the following:
 - A Python environment
 - Visual Studio Code or another code editor
 
-### Step-by-Step Guide
+### Steps
 
 #### 1. Azure Blob Storage Setup
 I began by setting up an Azure Blob Storage account named "sharesafelystrg" and a container named "uploads" to store the uploaded files. Key security configurations include:
@@ -78,7 +78,7 @@ As per the design of the application, this link is intended to expire after 15 s
 
 ## Conclusion
 
-The ShareSafely project successfully implemented a secure and efficient file-sharing web application using Azure services. The project demonstrated comprehensive skills in Azure Blob Storage, Azure Web Apps, Azure Key Vault, Azure Functions, and Azure Monitor. Through rigorous testing, including the final testing phase, all functionalities—secure uploads, time-limited link generation, and automated cleanup—were validated. This project not only highlights the capabilities of Azure's cloud services but also showcases best practices in security and application management.
+The ShareSafely project successfully implemented a secure and efficient file-sharing web application using Azure services. The project demonstrated comprehensive skills in Azure Blob Storage, Azure Web Apps, Azure Key Vault, Azure Functions, and Azure Monitor. Through rigorous testing, including the final testing phase, all functionalities—secure uploads, time-limited link generation, and automated cleanup—were validated. 
 
 ## Skills Demonstrated
 - **Secure File Management**: Implemented secure file storage using Azure Blob Storage with controlled access through SAS tokens.
