@@ -114,7 +114,7 @@ The ShareSafely project successfully implemented a secure and efficient file-sha
 ## Repository Contents
 - **Manual**: A detailed manual documenting each step of the project, including configurations, testing procedures, and troubleshooting tips.
 - **Screenshots**: Visual documentation of key stages and configurations throughout the project, providing a visual guide and reference.
-- **Source Code**: All the source code used in this project, including the Flask application, Azure Functions, and any associated scripts, organized in the `source_code` folder.
+- **Source Code**: All the source code used in this project, including the Flask application, Azure Functions, and any associated scripts, organized in the `Source_Code` folder.
  
 ## Contact
 For any questions or further information, feel free to reach out to me on LinkedIn: https://www.linkedin.com/in/vivek-vashisht04/
